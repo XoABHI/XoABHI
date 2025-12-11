@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 **Current Role**: Research & Development Intern at Rungta Educational Foundation
+- 🎯 **Current Role**: Information Technology Student | IoT & Software Development Enthusiast
 - 🔬 **Expertise**: Full Stack Development, AI/ML, and IoT Solutions
 - 📝 **Achievement**: Patent Filed - IoT-based Health Monitoring System
 - 🌟 **Recognition**: Outstanding Grade in Python Full Stack Development (EduSkills Foundation)
